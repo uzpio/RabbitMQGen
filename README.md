@@ -1,4 +1,4 @@
-# rabbitandflink
+# RabbitMQ message generator and receiver
 Here you can find data generator that will publish random data on selected rabbitmq queue and data receiver, that will receive and print incoming messages on received rabbitmq queue
 
 In generate.py you need to modify:
